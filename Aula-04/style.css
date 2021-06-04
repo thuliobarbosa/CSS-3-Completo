@@ -1,0 +1,18 @@
+.div1, .div2, .div3 {
+    border: 10px dashed green;
+    background-color: greenyellow;
+    padding: 35px;
+    margin-bottom: 10px;
+}
+
+.div1 {
+    background-clip: border-box;
+}
+
+.div2 {
+    background-clip: content-box;
+}
+
+.div3 {
+    background-clip: padding-box;    
+}

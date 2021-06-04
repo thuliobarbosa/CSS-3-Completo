@@ -1,0 +1,11 @@
+h1 {
+  text-indent: 50px;
+}
+
+h2 {
+  letter-spacing: 3px;
+}
+
+p { 
+  letter-spacing: -3px;
+}
